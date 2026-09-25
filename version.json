@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "1.1.0",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.0/osnova-tv-1.1.0-github-release.apk",
-  "sha256": "ca20f6e7b873a7ef5829475f313acf173c6206dfe6efbe71f45eadfb2a01962e",
+  "version_code": 4,
+  "version_name": "1.1.1",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.1/osnova-tv-1.1.1-github-release.apk",
+  "sha256": "5616f7805b8c17e73c6b6beddfb0b6869c1705afe2b3a559115a9f979bbd9915",
   "mandatory": false,
-  "notes": "Вибір мови звуку, налаштування плеєра з адмінки, робота на старих приставках."
+  "notes": "Звук на приставках, стабільність при перемиканні каналів, темна заставка."
 }
