@@ -1,8 +1,8 @@
 {
-  "version_code": 8,
-  "version_name": "1.1.5",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.5/osnova-tv-1.1.5-github-release.apk",
-  "sha256": "143a1348b3f9829456ebf6ffbbf68302885250056efa8488f102bb3a5809378f",
+  "version_code": 9,
+  "version_name": "1.1.6",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.6/osnova-tv-1.1.6-github-release.apk",
+  "sha256": "ad91f01a484ecd31abddedbbc3fa754217584b35c0369e9ea54b6287724ae10f",
   "mandatory": false,
-  "notes": "Відео на приставках без ривків."
+  "notes": "Навігація пультом у меню."
 }
