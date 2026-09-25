@@ -1,8 +1,8 @@
 {
-  "version_code": 9,
-  "version_name": "1.1.6",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.6/osnova-tv-1.1.6-github-release.apk",
-  "sha256": "ad91f01a484ecd31abddedbbc3fa754217584b35c0369e9ea54b6287724ae10f",
+  "version_code": 10,
+  "version_name": "1.1.7",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.7/osnova-tv-1.1.7-github-release.apk",
+  "sha256": "a5d81773b1a0d1fed6abeaa265aa764f4936547d91221e6a07797a3e284ad69d",
   "mandatory": false,
-  "notes": "Навігація пультом у меню."
+  "notes": "Канали знову відкриваються на приставках."
 }
