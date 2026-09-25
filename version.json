@@ -1,8 +1,8 @@
 {
-  "version_code": 4,
-  "version_name": "1.1.1",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.1/osnova-tv-1.1.1-github-release.apk",
-  "sha256": "5616f7805b8c17e73c6b6beddfb0b6869c1705afe2b3a559115a9f979bbd9915",
+  "version_code": 5,
+  "version_name": "1.1.2",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.2/osnova-tv-1.1.2-github-release.apk",
+  "sha256": "390aca6662e011de593a67feb41b4a8d2623ffdcb088cc85b29f094b9b9fdb9b",
   "mandatory": false,
-  "notes": "Звук на приставках, стабільність при перемиканні каналів, темна заставка."
+  "notes": "Приставки на Android 6 без падінь, меню з кнопки «≡» на пульті, повний логотип на заставці."
 }
