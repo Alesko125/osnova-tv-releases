@@ -1,8 +1,8 @@
 {
-  "version_code": 12,
-  "version_name": "1.1.9",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.1.9/osnova-tv-1.1.9-github-release.apk",
-  "sha256": "e79cdac1cb4933ecdce1ca7211c8cc37b2b8f1aecee9fae3293bf6680b9cbd5d",
+  "version_code": 13,
+  "version_name": "1.2.0",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.2.0/osnova-tv-1.2.0-github-release.apk",
+  "sha256": "a76951e87ef74cd6f0e4220679f35e4cfa79dc76fbcf97b9e93b97a97e20faee",
   "mandatory": false,
-  "notes": "Значок застосунку з повним логотипом."
+  "notes": "Керування мишкою на приставці; у списку каналів ◀ — групи, ▶ — програма передач."
 }
