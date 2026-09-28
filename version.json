@@ -1,8 +1,8 @@
 {
-  "version_code": 18,
-  "version_name": "1.4.0",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.4.0/osnova-tv-1.4.0-github-release.apk",
-  "sha256": "6ab2220f49d3ac4c72fd04c348782c52f2508938e5b4b3884da94a45511cfae8",
+  "version_code": 19,
+  "version_name": "1.4.1",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.4.1/osnova-tv-1.4.1-github-release.apk",
+  "sha256": "65778fcf0b3b3afc049188f97a6536d42ce534db4e655fae11e95e5468aeaf49",
   "mandatory": false,
-  "notes": "Розширений режим: історія, свої групи й порядок, пошук у програмі, звук і якість, PIN на групи, автозапуск і будильник."
+  "notes": "Плавніший список каналів, швидший запуск; у записі ◀ без інфо-бару відкриває програму."
 }
