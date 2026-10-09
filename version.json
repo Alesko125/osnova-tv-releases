@@ -1,8 +1,8 @@
 {
-  "version_code": 21,
-  "version_name": "1.4.3",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.4.3/osnova-tv-1.4.3-github-release.apk",
-  "sha256": "0fcf4949b2e06b900c7fe57ba42eeffa3dccbf39720cb8b8fe85ceb88bfca773",
+  "version_code": 22,
+  "version_name": "1.5.0",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.5.0/osnova-tv-1.5.0-github-release.apk",
+  "sha256": "ce371473d0c0da4646c22672ff0835bbaa57dfefa97c2833b47f9b8901b03dc0",
   "mandatory": false,
-  "notes": "Тестове оновлення: змін у роботі немає."
+  "notes": "Канали й програма передач — напряму від оператора; звук і відео декодує сам застосунок."
 }
