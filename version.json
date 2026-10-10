@@ -1,8 +1,8 @@
 {
-  "version_code": 23,
-  "version_name": "1.6.0",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.6.0/osnova-tv-1.6.0-github-release.apk",
-  "sha256": "2125c78b23c887aa6f05d14839bb63bebd4f62de6717c2f35bf83c75e65e442a",
+  "version_code": 24,
+  "version_name": "1.6.1",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.6.1/osnova-tv-1.6.1-github-release.apk",
+  "sha256": "e9e22991391e4c49a8cd07cc35a669bda7bb33855e795bce25096d69705296a0",
   "mandatory": false,
-  "notes": "Застосунок працює через сервер ОСНОВИ: відео декодує сам, канали вмикаються швидко. Повернулись архів передач, пауза й перемотка. Без сервера канали йдуть напряму від оператора."
+  "notes": "Коли сервер недоступний, застосунок сам і без перерви переходить на канали напряму від оператора й повертається назад. Дрібні виправлення звуку й декодування."
 }
