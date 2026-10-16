@@ -1,8 +1,8 @@
 {
-  "version_code": 28,
-  "version_name": "1.6.4",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.6.4/osnova-tv-1.6.4-github-release.apk",
-  "sha256": "8b7c039049c191890bcfdefb44a637be7d7e164b40c300139eea83aa5b1d31ca",
+  "version_code": 29,
+  "version_name": "1.7.0",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.0/osnova-tv-1.7.0-github-release.apk",
+  "sha256": "1defbe09f59a5a0c5ea9d433b4d794ba5fe97418b50a51aeddba93e5243900f7",
   "mandatory": false,
-  "notes": "Правильні пропорції каналів SD (наприклад, «Дитинець») на телефонах без апаратного MPEG-2; логотип краще вписаний у коло."
+  "notes": "Звукова доріжка: українська, далі російська, далі англійська; кнопка звуку замінена вибором доріжки. Без автоматичної паузи. Програма передач на три доби. Налаштування з адмінки діють одразу."
 }
