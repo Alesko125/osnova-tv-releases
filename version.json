@@ -1,8 +1,8 @@
 {
-  "version_code": 31,
-  "version_name": "1.7.2",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.2/osnova-tv-1.7.2-github-release.apk",
-  "sha256": "d9d1f1f641f0d70759d20485e3a4213b5f3e958fe945d6db6a38da15a120778f",
+  "version_code": 32,
+  "version_name": "1.7.3",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.3/osnova-tv-1.7.3-github-release.apk",
+  "sha256": "50e205f416e11d8cd6c044a7f2a34f7fdc743c414ce0ef0850e2471046ed71fb",
   "mandatory": false,
-  "notes": "Підказка пульта на ТВ переноситься цілими пунктами; на планшетах повний екран не фіксує орієнтацію."
+  "notes": "Жести на відео: вліво чи вправо — сусідній канал, вгору чи вниз біля краю — гучність."
 }
