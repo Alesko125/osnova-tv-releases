@@ -1,8 +1,8 @@
 {
-  "version_code": 33,
-  "version_name": "1.7.4",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.4/osnova-tv-1.7.4-github-release.apk",
-  "sha256": "2e9b938c5c21fcef3aef9fcd5fe7f46575e02f0b68847a808fbf6c8df6eb8a5c",
+  "version_code": 34,
+  "version_name": "1.7.5",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.5/osnova-tv-1.7.5-github-release.apk",
+  "sha256": "c50f04b2f998ad89b3271bff4596a6ca7e72202f20370dade1abe9042c53699e",
   "mandatory": false,
-  "notes": "Жести на відео: сусідній канал, гучність праворуч, яскравість ліворуч; вмикаються окремо в налаштуваннях."
+  "notes": "Нове вікно налаштувань: картки з іконками, перемикачі й вибір значення."
 }
