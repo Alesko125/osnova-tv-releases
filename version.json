@@ -1,8 +1,8 @@
 {
-  "version_code": 35,
-  "version_name": "1.7.6",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.6/osnova-tv-1.7.6-github-release.apk",
-  "sha256": "8b689c58a4127e205cad2001457ef9041db0d74744f1f4fbc11eff4eccaa3ade",
+  "version_code": 36,
+  "version_name": "1.7.7",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.7.7/osnova-tv-1.7.7-github-release.apk",
+  "sha256": "c56dfb7031d68aa02f8eb2d25cdce0a41cddb0772cd34b4c45d49db2775d26a8",
   "mandatory": false,
-  "notes": "Новий значок застосунку «ОСНОВА IPTV»."
+  "notes": "Канали й доступ від станції напряму; значок не обрізається."
 }
