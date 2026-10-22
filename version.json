@@ -1,8 +1,8 @@
 {
-  "version_code": 40,
-  "version_name": "1.8.1",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.1/osnova-tv-1.8.1-github-release.apk",
-  "sha256": "09602fe7d414a8c742cdf85aba3d150660bbe7a12cc7bdf985ce1c527077d030",
+  "version_code": 41,
+  "version_name": "1.8.2",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.2/osnova-tv-1.8.2-github-release.apk",
+  "sha256": "424fdd6366a165111475ebea754b1e38f734ac598327f566c18a146f88c7d02c",
   "mandatory": false,
-  "notes": "Канали й доступ від станції напряму; кнопка доріжки; жести; нові налаштування."
+  "notes": "Після повернення до застосунку доступ перевіряється заново; підпис під списком каналів."
 }
