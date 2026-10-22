@@ -1,8 +1,8 @@
 {
-  "version_code": 41,
-  "version_name": "1.8.2",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.2/osnova-tv-1.8.2-github-release.apk",
-  "sha256": "424fdd6366a165111475ebea754b1e38f734ac598327f566c18a146f88c7d02c",
+  "version_code": 42,
+  "version_name": "1.8.3",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.3/osnova-tv-1.8.3-github-release.apk",
+  "sha256": "2197ccf7589ad06cd8320cc86de5dbc8965ad338ef252a7bea47dcb798f73db3",
   "mandatory": false,
-  "notes": "Після повернення до застосунку доступ перевіряється заново; підпис під списком каналів."
+  "notes": "Полегшений потік через сервер для слабких телевізорів: без смуг на HD-каналах."
 }
