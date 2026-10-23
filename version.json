@@ -1,8 +1,8 @@
 {
-  "version_code": 44,
-  "version_name": "1.8.5",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.5/osnova-tv-1.8.5-github-release.apk",
-  "sha256": "5a3ef2f5d46aec92a855278b0caaa8824491b3dc1cdfc48ce18328deff7cc1bd",
+  "version_code": 45,
+  "version_name": "1.8.6",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.6/osnova-tv-1.8.6-github-release.apk",
+  "sha256": "701c907c167645ec61d82468a87bd3d978bb0f95ca8ca52e467be8eafa10efeb",
   "mandatory": false,
-  "notes": "На телевізорі ◀ відкриває програму передач; перемотка — після ▶ або на паузі."
+  "notes": "Перемотка назад у прямому ефірі більше не перепідключає канал."
 }
