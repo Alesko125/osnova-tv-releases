@@ -1,7 +1,7 @@
 {
   "version_code": 46,
   "version_name": "1.8.7",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.7/osnova-tv-1.8.7-github-release.apk",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.7/osnova-tv-1.8.7-release.apk",
   "sha256": "5f77285120e6b0c834820aeb12616815cdaa13c21ad52679f24eb4b7ab0edd7b",
   "mandatory": false,
   "notes": "Усі звукові доріжки на черезрядкових каналах; перемотка в ефірі без перепідключення."
