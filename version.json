@@ -1,8 +1,8 @@
 {
-  "version_code": 50,
-  "version_name": "1.9.1",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.9.1/osnova-tv-1.9.1-release.apk",
-  "sha256": "a7d345fa07db3d24cb83b40948e7e76e80107ed6fba763ce86ef4a1acfb23045",
+  "version_code": 51,
+  "version_name": "1.9.2",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.9.2/osnova-tv-1.9.2-release.apk",
+  "sha256": "b318250e10224c4b2414233f1cd90d7fc225cad1b1f5e5b788599de4a62873e5",
   "mandatory": false,
   "notes": "Кнопка «Відкрити» на сайті вмикає той самий канал у застосунку. Нова адреса сервера: tv.osnova.tv. Якщо стоїть 1.8.7 чи старіша — спершу видаліть її: змінився ключ підпису."
 }
