@@ -1,8 +1,8 @@
 {
-  "version_code": 48,
-  "version_name": "1.8.9",
-  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.8.9/osnova-tv-1.8.9-release.apk",
-  "sha256": "eabc59874bc9791ca32d3a1958b431d5c535f688ce1466f24e4f6f5fa232a723",
+  "version_code": 49,
+  "version_name": "1.9.0",
+  "apk_url": "https://github.com/Alesko125/osnova-tv-releases/releases/download/v1.9.0/osnova-tv-1.9.0-release.apk",
+  "sha256": "109f7b28a5277b7995d6e489e0154371e1d987331aec30830b6d317ebcc5f190",
   "mandatory": false,
-  "notes": "Сумісність з Android 15 і новішими. Звукові доріжки підписані кодом мови: ua, en. Перед оновленням видаліть попередню версію: змінився ключ підпису."
+  "notes": "Нова адреса сервера: tv.osnova.tv. Пауза з навушників чи сповіщення більше не закриває застосунок. Код для підтримки — великими цифрами. Якщо стоїть 1.8.7 чи старіша — спершу видаліть її: змінився ключ підпису."
 }
